@@ -1,2 +1,5 @@
 # Lightsaber-Duels
-Competitive Combatants Show Off
+Combatants Show Off!
+
+(Jedi & Sith Masters)
+I would like to start a Competition with all Houses & Academies.
